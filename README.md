@@ -3,4 +3,4 @@
 
 
 # Web Server
-- [Caddy](https://github.com/caddyserver/caddy) Fast, multi-platform web server with automatic HTTPS. [caddyserver.com](https://caddyserver.com)
+- [Caddy](https://github.com/caddyserver/caddy)    Fast, multi-platform web server with automatic HTTPS.    [caddyserver.com](https://caddyserver.com)
